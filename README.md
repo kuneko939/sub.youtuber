@@ -6,6 +6,6 @@
     <link rel="stylesheet" href="stylesheet.css">
   </head>
 <body>
- <h1></h1>
+ <h1>第１位</h1>
 </body>
 </html>
